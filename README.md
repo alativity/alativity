@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **WPF, AndroidX, Go**
 
-- 📫 How to reach me **maxzimmer@alativity.design**
+- 📫 How to reach me **maxzimmer@alativity.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
