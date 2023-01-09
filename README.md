@@ -1,9 +1,9 @@
 <h1 align="center">Greetings, I'm Maximilian</h1>
 <h3 align="center">Slightly weird German backend developer</h3>
 
-- 🔭 I’m currently working on **Sirius Store (ALSS)**
+- 🔭 I’m currently working on **Antialis-RX (IoT)**
 
-- 🌱 I’m currently learning **WPF, AndroidX, Go**
+- 🌱 I’m currently learning **Go, Rust, Elixir**
 
 - 📫 How to reach me **maxzimmer@alativity.com**
 
