@@ -1,5 +1,4 @@
 <h1 align="center">Greetings, I'm Maximilian</h1>
-<h3 align="center">Slightly weird German backend developer</h3>
 
 - 🔭 I’m currently working on **Antialis-RX (IoT)**
 
