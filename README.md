@@ -20,17 +20,15 @@
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="C"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
-  <b>Rust</b>
+  <img src="https://www.rust-lang.org/logos/rust-logo-64x64.png" height="40" alt="Rust"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="40" alt="Go"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="Java"/>
 </p>
 
 **Embedded & Hardware**
 <p>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="40" alt="Arduino"/>
-  <b>STM32</b>
-  <b>AVR</b>
-  <b>PLC</b>
+  <img src="https://img.icons8.com/ios-filled/50/000000/microchip.png" height="40" alt="Microcontrollers"/>  
+  <b>AVR • STM32 • PLC</b>
 </p>
 
 **DevOps / Cloud**
@@ -55,7 +53,7 @@
 
 ### 🌐 Contacts
 <p>
-  <a href="mailto:maxzimmer@alativity.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://alativity.ru"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://github.com/alativity"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:maxzimmer@alativity.com"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://alativity.ru"><img src="https://img.shields.io/badge/Website-333333?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://github.com/alativity"><img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
