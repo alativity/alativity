@@ -25,10 +25,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="Java"/>
 </p>
 
-**Embedded & Hardware**
+**Embedded & Hardware**  
 <p>
-  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/microchip.svg" height="40" alt="Microcontrollers"/>
-  <b>AVR • STM32 • PLC</b>
+  <img src="https://img.shields.io/badge/AVR-333333?style=flat-square"/> 
+  <img src="https://img.shields.io/badge/STM32-333333?style=flat-square"/> 
+  <img src="https://img.shields.io/badge/PLC-333333?style=flat-square"/> 
 </p>
 
 **DevOps / Cloud**
