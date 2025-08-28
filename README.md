@@ -27,7 +27,7 @@
 
 **Embedded & Hardware**
 <p>
-  <img src="https://img.icons8.com/ios-filled/50/000000/microchip.png" height="40" alt="Microcontrollers"/>  
+  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/microchip.svg" height="40" alt="Microcontrollers"/>
   <b>AVR • STM32 • PLC</b>
 </p>
 
